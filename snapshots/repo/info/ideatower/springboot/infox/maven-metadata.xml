@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>info.ideatower.springboot</groupId>
+  <artifactId>infox</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180422052403</lastUpdated>
+  </versioning>
+</metadata>
