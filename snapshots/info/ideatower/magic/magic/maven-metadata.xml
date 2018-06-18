@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>info.ideatower.magic</groupId>
+  <artifactId>magic</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180618085634</lastUpdated>
+  </versioning>
+</metadata>
